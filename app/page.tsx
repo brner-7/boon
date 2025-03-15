@@ -67,6 +67,7 @@ export default function Page() {
       bio: "Aaron is a top 5 participant in the continental 'Goon Games' and another rising star within the goon scene. A strong mix of technical and strategic ability.",
       image: "/Aaron.jpeg",
     },
+    
   ]
 
   const toggleDarkMode = () => {
